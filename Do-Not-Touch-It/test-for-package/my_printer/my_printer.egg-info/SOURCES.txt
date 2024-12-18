@@ -1,0 +1,7 @@
+setup.py
+my_printer/__init__.py
+my_printer/printer.py
+my_printer.egg-info/PKG-INFO
+my_printer.egg-info/SOURCES.txt
+my_printer.egg-info/dependency_links.txt
+my_printer.egg-info/top_level.txt
